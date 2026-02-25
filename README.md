@@ -23,7 +23,7 @@ Programmering & Skripting: Python, Bash
 
 # 💻 Tech Stack:
 
-# ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) # ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) # ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white) # ![Splunk](https://img.shields.io/badge/-Splunk-FF0000?style=flat&logo=splunk&logoColor=white) # ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+# ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white) ![Splunk](https://img.shields.io/badge/-Splunk-FF0000?style=flat&logo=splunk&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=samanesec&icon=0&color=0)](https://visitcount.itsvg.in)
