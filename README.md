@@ -9,15 +9,18 @@
 
 # Ferdigheter
 
-Cybersecurity: Penetrasjonstesting, sårbarhetsanalyse, digital forensics
+ # Cybersecurity: 
+ Penetrasjonstesting, sårbarhetsanalyse, digital forensics
 
-Verktøy: Linux (Kali Linux), Wireshark, Splunk, Metasploit
+# Verktøy: 
+Linux (Kali Linux), Wireshark, Splunk, Metasploit
 
-Sikkerhet i skyen: Microsoft Azure, IoT sikkerhet
+# Sikkerhet i skyen: 
+Microsoft Azure, IoT sikkerhet
 
-Programmering & Skripting: Python, Bash
+# Programmering & Skripting: 
+Python, Bash
 
-[![](https://visitcount.itsvg.in/api?id=samanesec&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullrazak-hassan-269b77385/) 
@@ -30,4 +33,4 @@ Programmering & Skripting: Python, Bash
 [![](https://visitcount.itsvg.in/api?id=samanesec&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # ⚡ Liten fun fact om meg :)
-# Jeg elsker å analysere hele angrepskjeden, fra start til slutt, og gjøre læringen tilgjengelig for alle som vil forstå cybersikkerhet bedre.
+Jeg elsker å analysere hele angrepskjeden, fra start til slutt, og gjøre læringen tilgjengelig for alle som vil forstå cybersikkerhet bedre.
