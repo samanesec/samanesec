@@ -1,5 +1,21 @@
-# 💫 About Me:
- Jobber for øyeblikket med<br>Å bygge og dokumentere hands-on sikkerhetslab-prosjekter på GitHub – alt fra penetrasjonstesting og minneanalyse til logganalyse med Splunk. Fokuset er å forstå hele angrepskjeden, fra rekognosering til utnyttelse, og dokumentere det grundig.<br>👯 Ser etter samarbeid om<br>Blue team-prosjekter, deteksjonsutvikling eller CTF-utfordringer. Spesielt interessert i prosjekter der man kobler offensiv forståelse med defensiv tankegang – der kunnskap om angrep brukes til å bygge bedre deteksjon.<br>🌱 Lærer for øyeblikket<br>Deteksjonsregelutvikling, trusseletterforskning (CTI) og cloud-native sikkerhet på Azure. Målet er å forstå ikke bare hvordan angrep skjer, men hvordan man oppdager dem tidlig i kjeden.<br>💬 Spør meg om<br>Penetrasjonstesting, minneforensikk med Volatility3, logganalyse i Splunk, skadevareanalyse med YARA – eller hvordan man tenker som en angriper for å forsvare bedre.<br>⚡ Fun fact<br>Etter å ha utnyttet en sårbarhet stiller jeg alltid spørsmålet: "Hva ville jeg ha sett i loggene?" – for meg er angrep og forsvar to sider av samme sak.
+# 💫 Om meg:
+ 💻 Praktisk erfaring med: Kali Linux, Splunk, Forensics, Pentest-verktøy
+
+🔎 Strukturert og analytisk – liker å forstå hele angrepskjeden
+
+📚 Dokumenterer lab-arbeid og prosjekter på GitHub
+
+🌐 Interessefelt: cybersikkerhet, nettverk, skyplattformer (Azure) og sikkerhetsarkitektur
+
+# Ferdigheter
+
+Cybersecurity: Penetrasjonstesting, sårbarhetsanalyse, digital forensics
+
+Verktøy: Kali Linux, Wireshark, Splunk, Metasploit
+
+Sikkerhet i skyen: Microsoft Azure, IoT sikkerhet
+
+Programmering & Skripting: Python, Bash
 
 
 ## 🌐 Socials:
