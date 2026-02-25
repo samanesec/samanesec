@@ -1,4 +1,4 @@
-# 💫 Abdullrazak Hassan:
+# 💫 Litt om meg:
  💻 Praktisk erfaring med: Kali Linux, Splunk, Forensics, Pentest-verktøy
 
 🔎 Strukturert og analytisk – liker å forstå hele angrepskjeden
