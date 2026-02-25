@@ -11,4 +11,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=samanesec&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⚡ Liten fun fact om meg :)
+
+Jeg elsker å analysere hele angrepskjeden, fra start til slutt, og gjøre læringen tilgjengelig for alle som vil forstå cybersikkerhet bedre.
