@@ -9,16 +9,16 @@
 
 # Ferdigheter
 
- # Cybersecurity: 
+ Cybersecurity: 
  Penetrasjonstesting, sårbarhetsanalyse, digital forensics
 
-# Verktøy: 
+Verktøy: 
 Linux (Kali Linux), Wireshark, Splunk, Metasploit
 
-# Sikkerhet i skyen: 
+Sikkerhet i skyen: 
 Microsoft Azure, IoT sikkerhet
 
-# Programmering & Skripting: 
+Programmering & Skripting: 
 Python, Bash
 
 
