@@ -5,13 +5,13 @@
 
 📚 Dokumenterer lab-arbeid og prosjekter på GitHub
 
-🌐 Interessefelt: cybersikkerhet, nettverk, skyplattformer (Azure) og sikkerhetsarkitektur
+🌐 Interessefelt: Cybersikkerhet, Nettverk, Skyplattformer (Azure) og Sikkerhetsarkitektur
 
 # Ferdigheter
 
 Cybersecurity: Penetrasjonstesting, sårbarhetsanalyse, digital forensics
 
-Verktøy: Kali Linux, Wireshark, Splunk, Metasploit
+Verktøy: Linux (Kali Linux), Wireshark, Splunk, Metasploit
 
 Sikkerhet i skyen: Microsoft Azure, IoT sikkerhet
 
