@@ -9,8 +9,8 @@
 
 # Ferdigheter
 
- Cybersecurity: 
- Penetrasjonstesting, sårbarhetsanalyse, digital forensics
+Cybersecurity: 
+Penetrasjonstesting, sårbarhetsanalyse, digital forensics
 
 Verktøy: 
 Linux (Kali Linux), Wireshark, Splunk, Metasploit
